@@ -1,0 +1,11 @@
+- properly resize header shape
+- fix navbar
+- add javascript
+- fill contacts page
+- make page responsive/mobile friendly
+
+LOW PRIORITY:
+- set navbar to fade when not home
+- optimize panels
+- set clickable area around logo to match actual logo and not invisible square
+- properly compress hq gif
